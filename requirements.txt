@@ -15,9 +15,9 @@ dill==0.3.6
 discord.py==2.1.0
 
 emoji==2.2.0
-idna==3.4
+idna==3.7
 isort==5.10.1
-Jinja2==3.1.2
+Jinja2==3.1.4
 lazy-object-proxy==1.8.0
 MarkupSafe==2.1.1
 mccabe==0.7.0
